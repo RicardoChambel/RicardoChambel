@@ -67,6 +67,6 @@
 
 ###
 
-<p align="right">🤫 I made this with: https://profile-readme-generator.com</p>
+<p align="right">🤫🧏‍♂️</p>
 
 ###
