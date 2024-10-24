@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/550a2f37061861.5733485064a6d.gif"  />
+  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/550a2f37061861.5733485064a6d.gif"  />
 </div>
 
 ###
