@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RicardoChambel/RicardoChambel/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RicardoChambel/output/snake.svg" alt="Snake animation" />
 
 ###
