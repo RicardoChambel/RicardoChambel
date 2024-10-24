@@ -1,6 +1,6 @@
 
 <!-- 
-Fiz isto com este link:
+I made this throught this site:
 https://profile-readme-generator.com/
 -->
 
