@@ -4,17 +4,17 @@ I made this throught this site:
 https://profile-readme-generator.com/
 -->
 
+<div align="center">
+  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/550a2f37061861.5733485064a6d.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hey👋 What's up?</h1>
 
 ###
 
 <h3 align="center">My name is Ricardo Chambel and I'm a computer science student from Portugal 🇵🇹</h3>
-
-###
-
-<div align="center">
-  <img height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/550a2f37061861.5733485064a6d.gif"  />
-</div>
 
 ###
 
