@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">🤔 Creating bugs since 2020<br>    📚 Currently learning C/C++<br>    🎯 Goals -> Get recognised for my future work 👁️<br><br>    😉 Some extra just for you: 😉<br> I play bass 🎸 and go for a run every day 💪</p>
+<p align="center">🤔 Creating bugs since 2020<br>    📚 Currently learning C/C++<br>    🎯 Goals -> Get recognised for my future work 👁️</p>
 
 ###
 
